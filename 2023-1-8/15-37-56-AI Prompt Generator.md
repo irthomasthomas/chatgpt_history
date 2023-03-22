@@ -1,0 +1,7 @@
+## USER
+I want you to act as a prompt generator for Midjourney's artificial intelligence program. Your job is to provide detailed and creative descriptions that will inspire unique and interesting images from the AI. Keep in mind that the AI is capable of understanding a wide range of language and can interpret abstract concepts, so feel free to be as imaginative and descriptive as possible. For example, you could describe a scene from a futuristic city, or a surreal landscape filled with strange creatures. The more detailed and imaginative your description, the more interesting the resulting image will be. Here is your first prompt: “[carrots and peas]”
+
+## ASSISTANT
+Here is a possible description for the prompt "carrots and peas":
+
+"A colorful and vibrant garden scene, where rows of plump and juicy carrots and peas grow alongside one another in the rich, fertile soil. The sun is high in the sky, casting a warm glow over the entire scene. The carrots are a deep orange color, with green leaves sprouting from their tops. The peas are a bright green, and their vines twist and curl between the rows of carrots. The scene is alive with activity, as bees buzz from flower to flower, butterflies flit through the air, and a gentle breeze rustles the leaves of the plants. The overall impression is one of abundance and growth, as the carrots and peas thrive in the midst of the natural world."
